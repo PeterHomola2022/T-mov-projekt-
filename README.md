@@ -1,2 +1,2 @@
-# T-mov-projekt-
+# Team-project-
 AI podpora mapovania prístupnosti 
